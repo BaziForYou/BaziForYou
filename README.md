@@ -6,7 +6,7 @@
 ### Programming Languages
 
 [![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://www.lua.org/docs.html)
-[![Python](https://img.shields.io/badge/-Lua-000?&logo=python&logoColor=f2c6402)](https://docs.python.org/3/)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=f2c6402)](https://docs.python.org/3/)
 [![Julia](https://img.shields.io/badge/-Julia-000?&logo=julia&logoColor=379244)](https://docs.julialang.org)
 [![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=934b8e)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
