@@ -28,4 +28,5 @@
 
 - 🤩 Forum Page: https://forum.cfx.re/u/baziforyou/
 - 📭 Discord: BaziForYou#9907
+- 👨‍👩‍👧‍👦 Discord Server: https://discord.gg/nmDVAWeAjn
 
