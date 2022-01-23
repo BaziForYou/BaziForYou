@@ -27,7 +27,14 @@
 ### Contact me
 
 - 🤩 Forum Page: https://forum.cfx.re/u/baziforyou/
-- 📭 Discord: BaziForYou#9907
 - 👨‍👩‍👧‍👦 Discord Server: https://discord.gg/nmDVAWeAjn
+- 📭 Discord: [BaziForYou#9907](https://discordapp.com/users/412324253397155854)
 - ☕ KOFI: https://ko-fi.com/baziforyou
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discordapp.com/users/412324253397155854">
+        <img title="BaziForYou discord" alt="BaziForYou's discord" src="https://discord.c99.nl/widget/theme-3/412324253397155854.png"/>
+    </a>
+</p>
 
