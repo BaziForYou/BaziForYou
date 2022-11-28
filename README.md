@@ -22,6 +22,8 @@
 
 ### Projects/Contributions 
 [![Viola Roleplay](https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20Viola%20Roleplay-000?)](https://discord.gg/CQ9AjTY)
+[![FoeWorld Roleplay](https://img.shields.io/badge/-👻%EF%B8%8F%EF%B8%8F%20FoeWorld%20Roleplay-575757?)](https://discord.gg/CQ9AjTY)
+
 
 ### Contact me
 
