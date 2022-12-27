@@ -8,7 +8,7 @@
 [![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://www.lua.org/docs.html)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=f2c6402)](https://docs.python.org/3/)
 [![Julia](https://img.shields.io/badge/-Julia-000?&logo=julia&logoColor=379244)](https://docs.julialang.org)
-[![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=934b8e)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B&logoColor=934b8e)]([https://docs.microsoft.com/en-us/dotnet/csharp/](https://learn.microsoft.com/en-us/cpp/?view=msvc-170))
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
