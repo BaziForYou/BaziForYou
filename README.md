@@ -39,7 +39,7 @@
     </a>
     <br/>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&redirect=true" target="_blank">
-        <img title="BaziForYou Spotify" alt="BaziForYou's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
+        <img title="BaziForYou Spotify" alt="BaziForYou's Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
     </a>
 </p>
 
