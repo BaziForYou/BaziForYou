@@ -1,7 +1,7 @@
-### Hi there Im BaziForYou 👋
+### Hi Im BaziForYou 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BaziForYou&count_private=true&theme=tokyonight&show_icons=true )](https://github.com/BaziForYou)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaziForYou&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/BaziForYou)
+[![My GitHub Stats](https://github-readme-stats-fast.vercel.app/api/?username=BaziForYou&count_private=true&theme=tokyonight&show_icons=true )](https://github.com/BaziForYou)
+[![My GitHub Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BaziForYou&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/BaziForYou)
 
 ### Programming Languages
 
@@ -35,7 +35,7 @@
 <h2 align="center">Profiles</h2><br>
   <p align="center">
     <a href="https://discordapp.com/users/412324253397155854" target="_blank">
-        <img title="BaziForYou discord" alt="BaziForYou's discord" src="https://discord.c99.nl/widget/theme-3/412324253397155854.png"/>
+        <img title="BaziForYou discord" alt="BaziForYou's discord" src="https://atombot.be/widget/user/4/412324253397155854.webp"/>
     </a>
     <br/>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&redirect=true" target="_blank">
