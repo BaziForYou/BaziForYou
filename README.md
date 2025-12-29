@@ -35,7 +35,7 @@
 <h2 align="center">Profiles</h2><br>
   <p align="center">
     <a href="https://discordapp.com/users/412324253397155854" target="_blank">
-        <img title="BaziForYou discord" alt="BaziForYou's discord" src="https://atombot.be/widget/user/4/412324253397155854.webp"/>
+        <img title="BaziForYou discord" alt="BaziForYou's discord" src="https://discord.c99.nl/widget/theme-3/412324253397155854.png"/>
     </a>
     <br/>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&redirect=true" target="_blank">
